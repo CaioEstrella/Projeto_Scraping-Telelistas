@@ -1,4 +1,5 @@
 # Scraping---Telelistas (Por / Eng)
+https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
 
 Este é um projeto de web scraping do site www.telelistas.net. A pasta "tabelas", contém exemplos dos resultados que podem ser gerados. As tabelas não representam o resultado direto dos códigos aqui presentes. 
 
