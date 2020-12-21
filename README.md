@@ -1,7 +1,7 @@
 # Scraping---Telelistas (Por / Eng)
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-Este é um projeto de web scraping do site www.telelistas.net. A pasta "tabelas" contém os resultados gerados a partir do código. A tabela 'mercados' está incompleta, contendo somente algumas linhas apra um único setor.
+Este é um projeto de web scraping do site www.telelistas.net. A pasta "tabelas" contém os resultados gerados a partir do código. A tabela 'mercados' é somente uma demonstração contendo algumas linhas para um único setor escolhido como exemplo.
 
 O projeto se divide em duas partes a serem explicadas a seguir: 
 
@@ -10,7 +10,7 @@ O projeto se divide em duas partes a serem explicadas a seguir:
 
 -------------------------------------
 
-This is a web scraping project from the website www.telelistas.net. You can find the results obtained in the folder "tabelas". The excel file 'mercados' is incomplete, having just some lines for one sector.
+This is a web scraping project from the website www.telelistas.net. You can find the results obtained in the folder "tabelas". The excel file 'mercados' is incomplete, having just some lines for one sector working as an example.
 
 This project can be divided in two parts:
 
